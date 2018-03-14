@@ -1,0 +1,211 @@
+Wed Mar 14 03:50:27 2018: build-wrapper, version 5.1 (win-x86-64)
+Wed Mar 14 03:50:27 2018: isWow64: 0
+Wed Mar 14 03:50:27 2018: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
+Wed Mar 14 03:50:27 2018: current directory: C:\Users\JinnKaY\Documents\firmware_v2
+Wed Mar 14 03:50:27 2018: command line received: <make clean all>
+Wed Mar 14 03:50:27 2018: initializing json file
+Wed Mar 14 03:50:27 2018: starting debug cycle
+Wed Mar 14 03:50:27 2018: process created with pid: 5828
+Wed Mar 14 03:50:27 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:27 2018: command line: <make clean all>
+Wed Mar 14 03:50:27 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:27 2018: isWow64: 0
+Wed Mar 14 03:50:27 2018: skipping process C:\cygwin64\bin\make.exe with pid: 5828
+Wed Mar 14 03:50:27 2018: process created with pid: 13108
+Wed Mar 14 03:50:27 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:27 2018: command line: <make clean all>
+Wed Mar 14 03:50:27 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:27 2018: isWow64: 0
+Wed Mar 14 03:50:27 2018: skipping process C:\cygwin64\bin\make.exe with pid: 13108
+Wed Mar 14 03:50:27 2018: process created with pid: 14896
+Wed Mar 14 03:50:27 2018: image path name: <C:\cygwin64\bin\sh.exe>
+Wed Mar 14 03:50:27 2018: command line: <"C:\cygwin64\bin\sh.exe">
+Wed Mar 14 03:50:27 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:27 2018: isWow64: 0
+Wed Mar 14 03:50:27 2018: skipping process C:\cygwin64\bin\sh.exe with pid: 14896
+Wed Mar 14 03:50:27 2018: process with pid 13108 exit with code: 0 (0x0)
+Wed Mar 14 03:50:27 2018: process with pid 14896 exit with code: 0 (0x0)
+Wed Mar 14 03:50:27 2018: process created with pid: 13168
+Wed Mar 14 03:50:27 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:27 2018: command line: <make clean all>
+Wed Mar 14 03:50:27 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:27 2018: isWow64: 0
+Wed Mar 14 03:50:27 2018: skipping process C:\cygwin64\bin\make.exe with pid: 13168
+Wed Mar 14 03:50:27 2018: process created with pid: 688
+Wed Mar 14 03:50:27 2018: image path name: <C:\cygwin64\bin\sh.exe>
+Wed Mar 14 03:50:27 2018: command line: <"C:\cygwin64\bin\sh.exe">
+Wed Mar 14 03:50:27 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:27 2018: isWow64: 0
+Wed Mar 14 03:50:27 2018: skipping process C:\cygwin64\bin\sh.exe with pid: 688
+Wed Mar 14 03:50:28 2018: process with pid 13168 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process with pid 688 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 9564
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:28 2018: command line: <make clean all>
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\make.exe with pid: 9564
+Wed Mar 14 03:50:28 2018: process created with pid: 6992
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\sh.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\sh.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\sh.exe with pid: 6992
+Wed Mar 14 03:50:28 2018: process with pid 9564 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 6524
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\rm.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\rm.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\rm.exe with pid: 6524
+Wed Mar 14 03:50:28 2018: process with pid 6992 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process with pid 6524 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 12556
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:28 2018: command line: <make clean all>
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\make.exe with pid: 12556
+Wed Mar 14 03:50:28 2018: process created with pid: 16344
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\sh.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\sh.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\sh.exe with pid: 16344
+Wed Mar 14 03:50:28 2018: process with pid 12556 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 7992
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\rm.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\rm.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\rm.exe with pid: 7992
+Wed Mar 14 03:50:28 2018: process with pid 16344 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process with pid 7992 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 14536
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:28 2018: command line: <make clean all>
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\make.exe with pid: 14536
+Wed Mar 14 03:50:28 2018: process created with pid: 13016
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\sh.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\sh.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\sh.exe with pid: 13016
+Wed Mar 14 03:50:28 2018: process with pid 14536 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 12984
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\rm.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\rm.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\rm.exe with pid: 12984
+Wed Mar 14 03:50:28 2018: process with pid 13016 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process with pid 12984 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 16140
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:28 2018: command line: <make clean all>
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\make.exe with pid: 16140
+Wed Mar 14 03:50:28 2018: process created with pid: 13092
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\sh.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\sh.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\sh.exe with pid: 13092
+Wed Mar 14 03:50:28 2018: process with pid 16140 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process with pid 13092 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 5248
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:28 2018: command line: <make clean all>
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\make.exe with pid: 5248
+Wed Mar 14 03:50:28 2018: process created with pid: 15756
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\sh.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\sh.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\sh.exe with pid: 15756
+Wed Mar 14 03:50:28 2018: process with pid 5248 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process with pid 15756 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 4472
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:28 2018: command line: <make clean all>
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\make.exe with pid: 4472
+Wed Mar 14 03:50:28 2018: process created with pid: 3972
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\sh.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\sh.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\sh.exe with pid: 3972
+Wed Mar 14 03:50:28 2018: process with pid 4472 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process with pid 3972 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 13864
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:28 2018: command line: <make clean all>
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\make.exe with pid: 13864
+Wed Mar 14 03:50:28 2018: process created with pid: 1300
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\sh.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\sh.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\sh.exe with pid: 1300
+Wed Mar 14 03:50:28 2018: process with pid 13864 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process with pid 1300 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 13176
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:28 2018: command line: <make clean all>
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\make.exe with pid: 13176
+Wed Mar 14 03:50:28 2018: process created with pid: 4360
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\sh.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\sh.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\sh.exe with pid: 4360
+Wed Mar 14 03:50:28 2018: process with pid 13176 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process with pid 4360 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 13896
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:28 2018: command line: <make clean all>
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\make.exe with pid: 13896
+Wed Mar 14 03:50:28 2018: process created with pid: 10036
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\make.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\make.exe with pid: 10036
+Wed Mar 14 03:50:28 2018: process with pid 13896 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 16072
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\make.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\make.exe with pid: 16072
+Wed Mar 14 03:50:28 2018: process created with pid: 13532
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\sh.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\sh.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\sh.exe with pid: 13532
+Wed Mar 14 03:50:28 2018: process with pid 16072 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process with pid 13532 exit with code: 0 (0x0)
+Wed Mar 14 03:50:28 2018: process created with pid: 14616
+Wed Mar 14 03:50:28 2018: image path name: <C:\cygwin64\bin\make.exe>
+Wed Mar 14 03:50:28 2018: command line: <"C:\cygwin64\bin\make.exe">
+Wed Mar 14 03:50:28 2018: working directory: <C:\Users\JinnKaY\Documents\firmware_v2\>
+Wed Mar 14 03:50:28 2018: isWow64: 0
+Wed Mar 14 03:50:28 2018: skipping process C:\cygwin64\bin\make.exe with pid: 14616
+Wed Mar 14 03:50:28 2018: process with pid 14616 exit with code: 32512 (0x7F00)
+Wed Mar 14 03:50:28 2018: process with pid 10036 exit with code: 512 (0x200)
+Wed Mar 14 03:50:28 2018: process with pid 5828 exit with code: 2 (0x2)
+Wed Mar 14 03:50:28 2018: finalizing json file
